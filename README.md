@@ -216,5 +216,5 @@ curl 'https://catswords-exts-search.search.windows.net/indexes/azuresql-index/do
 ```
 
 ## Contact me
-- abuse@catswords.net
+- oss@catswords.net
 - ActivityPub [@catswords_oss@catswords.social](https://catswords.social/@catswords_oss)
