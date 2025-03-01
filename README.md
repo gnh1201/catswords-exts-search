@@ -1,6 +1,13 @@
 # catswords-exts-search
 catswords-exts-search REST API docs
 
+## Background
+These data have served as file format metadata since 2008, when I was a student aspiring to pursue a career in computer science, and throughout my professional career ever since.
+
+Initially, they were hosted on a standalone website, but maintaining it with the latest technology stack became challenging. To ensure continued accessibility, I have now made them publicly available using Microsoft Azure's AI Search platform.
+
+Even today, I believe they will remain valuable for various applications, including Retrieval-Augmented Generation (RAG) for file format preprocessing.
+
 ## API key
 Due to GitHub's security policy, we are unable to disclose public API keys. Kindly reach out to the contact information provided below to request access.
 
