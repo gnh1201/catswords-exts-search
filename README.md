@@ -19,7 +19,7 @@ Due to GitHub's security policy, we are unable to disclose public API keys. Kind
 
 ```bash
 curl 'https://catswords-exts-search.search.windows.net/indexes/azuresql-index/docs/search?api-version=2016-09-01' \
-  -H 'api-key: INPUT_API_KEY_HERE' \
+  -H 'api-key: YOUR_API_KEY' \
   -H 'content-type: application/json' \
   --data-raw '{"search": "ransomware","count": true,"top": 3}'
 ```
@@ -121,7 +121,7 @@ curl 'https://catswords-exts-search.search.windows.net/indexes/azuresql-index/do
 
 ```bash
 curl 'https://catswords-exts-search.search.windows.net/indexes/azuresql-index/docs/search?api-version=2016-09-01' \
-  -H 'api-key: INPUT_API_KEY_HERE' \
+  -H 'api-key: YOUR_API_KEY' \
   -H 'content-type: application/json' \
   --data-raw '{"search": "영상","count": true,"top": 3}'
 ```
