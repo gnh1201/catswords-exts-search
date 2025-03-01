@@ -218,3 +218,4 @@ curl 'https://catswords-exts-search.search.windows.net/indexes/azuresql-index/do
 ## Contact me
 - oss@catswords.net
 - ActivityPub [@catswords_oss@catswords.social](https://catswords.social/@catswords_oss)
+- Discord [#catswords-exts-search on Catswords OSS](https://discord.gg/8JUzMCmRzr)
