@@ -26,7 +26,7 @@ curl 'https://catswords-exts-search.search.windows.net/indexes/azuresql-index/do
 
 ### Response
 
-```
+```json
 {
   "@odata.context": "https://catswords-exts-search.search.windows.net/indexes('azuresql-index')/$metadata#docs(*)",
   "@odata.count": 8314,
@@ -128,7 +128,7 @@ curl 'https://catswords-exts-search.search.windows.net/indexes/azuresql-index/do
 
 ### Response
 
-```
+```json
 {
   "@odata.context": "https://catswords-exts-search.search.windows.net/indexes('azuresql-index')/$metadata#docs(*)",
   "@odata.count": 3,
