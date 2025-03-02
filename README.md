@@ -217,5 +217,7 @@ curl 'https://catswords-exts-search.search.windows.net/indexes/azuresql-index/do
 
 ## Contact me
 - oss@catswords.net
-- ActivityPub [@catswords_oss@catswords.social](https://catswords.social/@catswords_oss)
-- Discord [#catswords-exts-search on Catswords OSS](https://discord.gg/8JUzMCmRzr)
+- ActivityPub: [@catswords_oss@catswords.social](https://catswords.social/@catswords_oss)
+- XMPP: [catswords@conference.omemo.id](xmpp:catswords@conference.omemo.id?join)
+- Microsoft Teams: [Join Catswords OSS](https://teams.live.com/l/community/FEACHncAhq8ldnojAI)
+- Discord: [#catswords-exts-search on Catswords OSS](https://discord.gg/8JUzMCmRzr)
