@@ -1,5 +1,5 @@
 # catswords-exts-search
-catswords-exts-search REST API docs
+![exts.kr is the data format community since 2008](https://ics.catswords.net/catswords-exts-logo.png) catswords-exts-search REST API docs
 
 ## Background
 These data have served as file format metadata since 2008, when I was a student aspiring to pursue a career in computer science, and throughout my professional career ever since.
