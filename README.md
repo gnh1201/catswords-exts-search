@@ -215,6 +215,9 @@ curl 'https://catswords-exts-search.search.windows.net/indexes/azuresql-index/do
 }
 ```
 
+## How to contribe
+Contributions to this project are always welcome. Please visit the GitHub repository [gnh1201/catswords-exts-search](https://github.com/gnh1201/catswords-exts-search) and contribute. I appreciate reports on file formats, suggestions for applying new technologies, and any other contributions you may have.
+
 ## Contact me
 - oss@catswords.net
 - ActivityPub: [@catswords_oss@catswords.social](https://catswords.social/@catswords_oss)
