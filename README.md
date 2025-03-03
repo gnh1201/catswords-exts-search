@@ -8,8 +8,8 @@ Initially, they were hosted on a standalone website, but maintaining it with the
 
 Even today, I believe they will remain valuable for various applications, including Retrieval-Augmented Generation (RAG) for file format preprocessing.
 
-## API key
-Due to GitHub's security policy, we are unable to disclose public API keys. Kindly reach out to the contact information provided below to request access.
+## Public API keys
+Due to GitHub's security policy, public API keys cannot be disclosed here. Instead, they are available on [our Discord channel](https://discord.gg/8JUzMCmRzr).
 
 ## Try search (keyword: ransomware)
 
