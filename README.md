@@ -8,6 +8,8 @@ Initially, they were hosted on a standalone website, but maintaining it with the
 
 Even today, I believe they will remain valuable for various applications, including Retrieval-Augmented Generation (RAG) for file format preprocessing.
 
+***Note***: The specification for the current Microsoft Azure version is not yet available. However, you can refer to [the deprecated previous version's specification](https://ics.catswords.net/catswords-exts-api-legacy.pdf) to understand the meaning of each field. A new specification will be prepared soon.
+
 ## Public API keys
 Due to GitHub's security policy, public API keys cannot be disclosed here. Instead, they are available on [our Discord channel](https://discord.gg/8JUzMCmRzr).
 
