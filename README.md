@@ -1,4 +1,6 @@
 # catswords-exts-search
+[![Discord chat](https://img.shields.io/discord/359930650330923008?logo=discord)](https://discord.gg/U4GM58tE)
+
 ![exts.kr is the data format community since 2008](https://ics.catswords.net/catswords-exts-logo.png) catswords-exts-search REST API docs
 
 ## Background
